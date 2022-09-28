@@ -29,7 +29,6 @@ class Executive extends React.Component {
             <div className="col-12">
               {}
               <div
-                // className="owl-carousel"
                 data-items={1}
                 data-sm-items={2}
                 data-md-items={2}
